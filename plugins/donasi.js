@@ -1,12 +1,12 @@
 let handler =  m => m.reply(`
 ╭─「 Donasi • Pulsa 」
-│ • Indosat Ooredoo [085713964963]
-│ • Telkomsel [081319944687]
+│ • Indosat Ooredoo [085641142178]
+│ • Telkomsel [08XXXXXX]
 ╰────
 
 ╭─「 Donasi • Non Pulsa 」
 │ • https://saweria.co/BochilGaming
-│ • Gopay [085713964963]
+│ • Gopay [082110711736]
 ╰────
 `.trim()) // Tambah sendiri kalo mau
 handler.help = ['donasi']
